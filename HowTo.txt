@@ -1,2 +1,0 @@
-From ClogAmpSwiftSparkle Root:
-Terminal: ./Sparkle/bin/generate_appcast ./appcast
