@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>ClogAmpMac</title>
+        <item>
+            <title>1.3.0 beta</title>
+            <pubDate>Tue, 19 Nov 2019 2:50:31 PM +0100</pubDate>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <enclosure url="https://pascalroessel.de/ClogAmpSwift/ClogAmpMac.app-1.3.0.zip" sparkle:version="1.3.0" sparkle:shortVersionString="1.3.0 beta" length="12954210" type="application/octet-stream" sparkle:edSignature="jqpylRwGHK9VLeoqojqBKj5bMesIUU1xaloXyvqv1UDCaTj33jLIlsqpoXD7conPCAWZUzaZ0PVfMd0WXNyvDA=="/>
+        </item>
+    </channel>
+</rss>
