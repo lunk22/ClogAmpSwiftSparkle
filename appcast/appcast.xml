@@ -3,8 +3,45 @@
     <channel>
         <title>ClogAmpMac</title>
         <item>
+            <title>1.3.3 beta</title>
+            <pubDate>Wed, 20 Nov 2019 11:40:44 AM +0100</pubDate>
+            <description><![CDATA[<ul>
+    <li>Check for updates was not available in the menu bar</li>
+</ul> ]]></description>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <enclosure url="https://pascalroessel.de/ClogAmpSwift/ClogAmpMac.app-1.3.3.zip" sparkle:version="1.3.3" sparkle:shortVersionString="1.3.3 beta" length="12957393" type="application/octet-stream" sparkle:edSignature="R+X2pjTjOcWmRDLGo0/Im/eGdSqohk6D8c8ipTq5QvSE8crg1xYqrv6JKndQmM3XknwFGYlEKJ5qfZ+uuE+JBg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://pascalroessel.de/ClogAmpSwift/ClogAmpMac1.3.3-1.3.2.delta" sparkle:version="1.3.3" sparkle:shortVersionString="1.3.3 beta" sparkle:deltaFrom="1.3.2" length="70373" type="application/octet-stream" sparkle:edSignature="MIyn1v95dRKldou+906mR6Y3rseOCK8WrYQtlZgk3Fox+C6lfuQSt6aZS8j6UafPQ/0mEOXvQ9uqmN0wDNtpDA=="/>
+                <enclosure url="https://pascalroessel.de/ClogAmpSwift/ClogAmpMac1.3.3-1.3.1.delta" sparkle:version="1.3.3" sparkle:shortVersionString="1.3.3 beta" sparkle:deltaFrom="1.3.1" length="81106" type="application/octet-stream" sparkle:edSignature="TQq8V34Ykt20fA1UqiL/jzSy4oiU4M/oYLiB8u3Khfk3+h+iQE4V5V0D0FDUC5Op6c2n0K1R0z4kJtTH5eQ5Dg=="/>
+                <enclosure url="https://pascalroessel.de/ClogAmpSwift/ClogAmpMac1.3.3-1.3.0.delta" sparkle:version="1.3.3" sparkle:shortVersionString="1.3.3 beta" sparkle:deltaFrom="1.3.0" length="113406" type="application/octet-stream" sparkle:edSignature="RZywHl9momDJ2OcT6ngICSEJc8dowG3SxddHVcut2B90U1Cv7lppXYN4cfN1FTktLQ0Gk2vwIbFGrouFMVe8AA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>1.3.2 beta</title>
+            <pubDate>Wed, 20 Nov 2019 11:32:48 AM +0100</pubDate>
+            <description><![CDATA[<ul>
+    <li>Check for updates on app start, if the setting is turned on</li>
+    <li>Font changes do not require an app restart anymore</li>
+    <li>Streamline app preferences handling</li>
+    <li>Remove obsolte code</li>
+</ul> ]]></description>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <enclosure url="https://pascalroessel.de/ClogAmpSwift/ClogAmpMac.app-1.3.2.zip" sparkle:version="1.3.2" sparkle:shortVersionString="1.3.2 beta" length="12957267" type="application/octet-stream" sparkle:edSignature="bGnQhQ3vF8JZDcY50uiRr4luliWdm703ohhZe5wcTvLPwjH3wftHmuI3m7kkUB9m3WN4zlhUBkJ179p5m1XPBA=="/>
+        </item>
+        <item>
+            <title>1.3.1 beta</title>
+            <pubDate>Wed, 20 Nov 2019 9:40:06 AM +0100</pubDate>
+            <description><![CDATA[<ul>
+    <li>Fixed crash while searching for a PDF where the song or file name contained special characters</li>
+    <li>Fixed list alignments and sizes</li>
+    <li>Added Wait column to song list (will be printed along with the positions)</li>
+</ul> ]]></description>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <enclosure url="https://pascalroessel.de/ClogAmpSwift/ClogAmpMac.app-1.3.1.zip" sparkle:version="1.3.1" sparkle:shortVersionString="1.3.1 beta" length="12957810" type="application/octet-stream" sparkle:edSignature="5xEi2Nq5uK+JXT8xnEugk4vKY4hiL06BmpoH4yqh/bVSknsVc0Q85dfr3Kon/iTS1tstpxpZVxWJPtjoQnCrCA=="/>
+        </item>
+        <item>
             <title>1.3.0 beta</title>
-            <pubDate>Tue, 19 Nov 2019 2:50:31 PM +0100</pubDate>
+            <pubDate>Wed, 20 Nov 2019 6:51:41 AM +0100</pubDate>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
             <enclosure url="https://pascalroessel.de/ClogAmpSwift/ClogAmpMac.app-1.3.0.zip" sparkle:version="1.3.0" sparkle:shortVersionString="1.3.0 beta" length="12954210" type="application/octet-stream" sparkle:edSignature="jqpylRwGHK9VLeoqojqBKj5bMesIUU1xaloXyvqv1UDCaTj33jLIlsqpoXD7conPCAWZUzaZ0PVfMd0WXNyvDA=="/>
         </item>
