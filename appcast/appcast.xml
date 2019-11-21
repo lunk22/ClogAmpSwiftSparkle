@@ -3,6 +3,18 @@
     <channel>
         <title>ClogAmpMac</title>
         <item>
+            <title>1.3.5 beta</title>
+            <pubDate>Thu, 21 Nov 2019 12:56:21 PM +0100</pubDate>
+            <description><![CDATA[<div style="font-family:'Arial'">
+  Potential fix for positons not loading properly
+</div>]]></description>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac.app-1.3.5.zip" sparkle:version="1.3.5" sparkle:shortVersionString="1.3.5 beta" length="12957562" type="application/octet-stream" sparkle:edSignature="4ZGTbN4sBpbibhB4VEUACF6akVfcAKRGh73mDrhmadWipw0E9+59ayVefJyIXZr7UJzE2QVx/rwYApThaMAnAw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac1.3.5-1.3.4.delta" sparkle:version="1.3.5" sparkle:shortVersionString="1.3.5 beta" sparkle:deltaFrom="1.3.4" length="61697" type="application/octet-stream" sparkle:edSignature="sQU6Ldx8Nb8itbNq9kutNN28kBIX7ilUEMXSL9vrx77kchBG3KRdFpvL6tMrxXXlmFILEHa+QHWr0JiRhtQNCA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.3.4 beta</title>
             <pubDate>Wed, 20 Nov 2019 2:17:31 PM +0100</pubDate>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
