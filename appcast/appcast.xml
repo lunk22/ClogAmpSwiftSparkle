@@ -3,68 +3,16 @@
     <channel>
         <title>ClogAmpMac</title>
         <item>
-            <title>1.3.5 beta</title>
-            <pubDate>Thu, 21 Nov 2019 16:45:27 +0100</pubDate>
-            <description><![CDATA[<div style="font-family:'Arial'">
-  Potential fix for positons not loading properly
-</div>]]></description>
-            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac.app-1.3.5.zip" sparkle:version="1.3.5" sparkle:shortVersionString="1.3.5 beta" length="12957562" type="application/octet-stream" sparkle:edSignature="4ZGTbN4sBpbibhB4VEUACF6akVfcAKRGh73mDrhmadWipw0E9+59ayVefJyIXZr7UJzE2QVx/rwYApThaMAnAw=="/>
-        </item>
-        <item>
-            <title>1.3.4 beta</title>
-            <pubDate>Thu, 21 Nov 2019 16:45:27 +0100</pubDate>
-            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac.app-1.3.4.zip" sparkle:version="1.3.4" sparkle:shortVersionString="1.3.4 beta" length="12957392" type="application/octet-stream" sparkle:edSignature="9qb+1UrCSH+auCK3SR8wvF2lrQRNZrj+NmS+2Lnb4NT25a6ISqUTRCoNgDNEqnImwGAA2klfNaZjIelkY1HQBQ=="/>
-        </item>
-        <item>
-            <title>1.3.6 beta</title>
-            <pubDate>Fri, 22 Nov 2019 08:11:01 +0100</pubDate>
-            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac.app-1.3.6.zip" sparkle:version="1.3.6" sparkle:shortVersionString="1.3.6 beta" length="12956603" type="application/octet-stream" sparkle:edSignature="UMTkzrYfbl20GBSlUHcriDf+co+UG3Rk+NyPyD1t8q3Q+5Clz8FPJ9MITJ8QV0ZP8sreiNks6VIJkF+5NQf1DQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac1.3.6-1.3.5.delta" sparkle:version="1.3.6" sparkle:shortVersionString="1.3.6 beta" sparkle:deltaFrom="1.3.5" length="71242" type="application/octet-stream" sparkle:edSignature="fWn++1Tg/sZXf9/WxY1xGkQoLd+4V/39r6u8X/kN/mSI4iF8BYWHLWNbN8ed9c2tpZ/m6F7N6F/cgWerGeQKDA=="/>
-                <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac1.3.6-1.3.4.delta" sparkle:version="1.3.6" sparkle:shortVersionString="1.3.6 beta" sparkle:deltaFrom="1.3.4" length="79997" type="application/octet-stream" sparkle:edSignature="CeAXT89i+clI13fBweLf4Q2SNT1chIphEe8ec8QgPr3txI9HYEd9tQl3pHvzDauqCn2B8o3YRMnuTznOJfQVCQ=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.3.7 beta</title>
-            <pubDate>Sat, 23 Nov 2019 14:45:33 +0100</pubDate>
-            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac.app-1.3.7.zip" sparkle:version="1.3.7" sparkle:shortVersionString="1.3.7 beta" length="12956618" type="application/octet-stream" sparkle:edSignature="1yddUD+QojPlRvGwXbxesLrSkL2unvrFLypCuD75xEzBpuFn/z0+8MrKhEiGqOEKxOYBU97NgmN4tr2iQ9c/CA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac1.3.7-1.3.6.delta" sparkle:version="1.3.7" sparkle:shortVersionString="1.3.7 beta" sparkle:deltaFrom="1.3.6" length="52393" type="application/octet-stream" sparkle:edSignature="AM2FHQKa/arZgQlRm4hXXvb5Du9ZudNsH4J8gts/hGDEgvk8UqHwSN0YC6HncEtJwD+qwwRSZ0+7hkw/Ky+5BA=="/>
-                <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac1.3.7-1.3.5.delta" sparkle:version="1.3.7" sparkle:shortVersionString="1.3.7 beta" sparkle:deltaFrom="1.3.5" length="75637" type="application/octet-stream" sparkle:edSignature="1YOVIxCQ2np/xF8yu7pAx3gQmHPDCw4ZkpsDGE8eBrLLw8Sp7Ubgq4roHlHZ9ldR2Y/MVDOkfI4Mci5HD0g9AA=="/>
-                <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac1.3.7-1.3.4.delta" sparkle:version="1.3.7" sparkle:shortVersionString="1.3.7 beta" sparkle:deltaFrom="1.3.4" length="82645" type="application/octet-stream" sparkle:edSignature="GgMjKv7sGY2wwAF3syl1pi5xrbNzXauuA/F4URVreVt2l5lL4DM1OH0ckp5UWNi7Zhj8q8pbWeMGNiZgqVaMBw=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.3.8 beta</title>
-            <pubDate>Tue, 26 Nov 2019 9:38:28 AM +0100</pubDate>
-            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac.app-1.3.8.zip" sparkle:version="1.3.8" sparkle:shortVersionString="1.3.8 beta" length="12957686" type="application/octet-stream" sparkle:edSignature="uAtORdsyUHXsFi07FLsr0E426yDP3cTsge6p1LeKD4Jqc21x/6vRtsHFq8tP+c/AGW2JGpFsk4+TWjvfsAqwDw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac1.3.8-1.3.7.delta" sparkle:version="1.3.8" sparkle:shortVersionString="1.3.8 beta" sparkle:deltaFrom="1.3.7" length="48804" type="application/octet-stream" sparkle:edSignature="yAs47WwlsUhSaF7fa3n1KJOSgp72Nknzk0lDJx1slWkClnYIxAhTdEwTkGrMV0GJMJxKJxFUAAe86E5dHOh9Bw=="/>
-                <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac1.3.8-1.3.6.delta" sparkle:version="1.3.8" sparkle:shortVersionString="1.3.8 beta" sparkle:deltaFrom="1.3.6" length="54127" type="application/octet-stream" sparkle:edSignature="akaQC22qoue1QxppJvqXlrNazYuuwUDdMkyUh48pw0Pyf/dfU+sZg0rRRYfTTkAqgTUtZx/p6zsnqxnM16OaCQ=="/>
-                <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac1.3.8-1.3.5.delta" sparkle:version="1.3.8" sparkle:shortVersionString="1.3.8 beta" sparkle:deltaFrom="1.3.5" length="76569" type="application/octet-stream" sparkle:edSignature="cvJWgJb4M1sy0c7VmDEKk+f1DCsguBXnI2Fb77omRPIG5iRXZCKUpcAT741mkbGsxqFkWSfw94d7dEZ+KAggCA=="/>
-                <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac1.3.8-1.3.4.delta" sparkle:version="1.3.8" sparkle:shortVersionString="1.3.8 beta" sparkle:deltaFrom="1.3.4" length="82297" type="application/octet-stream" sparkle:edSignature="H3yps751Ph3JXrmowP8Wtxj67YOnmvkuD0WePTER/06VMBeLfczqG5cM5crQxJdXHmQfSXkTzmHA+TkyPDtsBA=="/>
-            </sparkle:deltas>
-            <description><![CDATA[<div style="font-family:'Arial'">
-  Hopefully the last fix for the positions not loading properly! Feedback is appreciated!
-</div>]]></description>
-        </item>
-        <item>
             <title>1.4.0 beta</title>
             <pubDate>Fri, 29 Nov 2019 8:17:47 AM +0100</pubDate>
+            <description><![CDATA[<div style="font-family:'Arial'">
+   <ul>
+    <li>Auto-determined BPMs are now being saved</li>
+    <li>A beats player has been introduced. Just type/paste the beats (like &a1 &2 for a Basic) and set a speed (beats per minute) and hear how it sounds</li>
+  </ul>
+</div>]]></description>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
             <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac.app-1.4.0.zip" sparkle:version="1.4.0" sparkle:shortVersionString="1.4.0 beta" length="20490938" type="application/octet-stream" sparkle:edSignature="p0AfNUiPWhbUIZdKZzTnRWdUbIcvm35ZdHJUFfdbLmrFMstjjk3EtoTVdWHNPKB8Fgw5aFX+0l8qkxb+TQP9Cw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac1.4.0-1.3.8.delta" sparkle:version="1.4.0" sparkle:shortVersionString="1.4.0 beta" sparkle:deltaFrom="1.3.8" length="6111724" type="application/octet-stream" sparkle:edSignature="SHQAsQ58ZZfaXLVdoDnMT9u2bFxxmu6teF85C/imn4kzRr9AMFuTuKNcslPaQJa5aQk6aJ1Zvs5MxiP30IaXBw=="/>
-                <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac1.4.0-1.3.7.delta" sparkle:version="1.4.0" sparkle:shortVersionString="1.4.0 beta" sparkle:deltaFrom="1.3.7" length="6109864" type="application/octet-stream" sparkle:edSignature="D/enkMLYo4fo0RsF1rsbe2gZvhJuB2fewCMdoFc3cuhqojssyhVI6KxnJ+UzpVK7izC4lqt+m4QcURFYc3cbBA=="/>
-                <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac1.4.0-1.3.6.delta" sparkle:version="1.4.0" sparkle:shortVersionString="1.4.0 beta" sparkle:deltaFrom="1.3.6" length="6110550" type="application/octet-stream" sparkle:edSignature="BNWcFMoSX3oTOVQrODa7It/BjdsjCsRJex4PHcsGKWqaU/AXFJePoZpKr7ieBR9bwVQeFDPCeSzx2OCgHw6tDw=="/>
-                <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac1.4.0-1.3.5.delta" sparkle:version="1.4.0" sparkle:shortVersionString="1.4.0 beta" sparkle:deltaFrom="1.3.5" length="6125362" type="application/octet-stream" sparkle:edSignature="eUkA2bVJf5reiNPacAclq2P5zceknIGmtwty915Zf8+Cp27BauqvSXk3GgXWCfZnsBC/4E3QL+2S6rQvbo5cCg=="/>
-                <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac1.4.0-1.3.4.delta" sparkle:version="1.4.0" sparkle:shortVersionString="1.4.0 beta" sparkle:deltaFrom="1.3.4" length="6124539" type="application/octet-stream" sparkle:edSignature="rfXhQlKs7uE/jSODVFmfS9cbDl8u7l3e/z5mb+eecAL+yeiIofsVFA3apC3nYB6Y4Ctr1I0kA6EaJpw6rmfWDQ=="/>
-            </sparkle:deltas>
         </item>
     </channel>
 </rss>
