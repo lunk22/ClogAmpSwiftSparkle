@@ -14,5 +14,20 @@
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
             <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac.app-1.4.0.zip" sparkle:version="1.4.0" sparkle:shortVersionString="1.4.0 beta" length="20490938" type="application/octet-stream" sparkle:edSignature="p0AfNUiPWhbUIZdKZzTnRWdUbIcvm35ZdHJUFfdbLmrFMstjjk3EtoTVdWHNPKB8Fgw5aFX+0l8qkxb+TQP9Cw=="/>
         </item>
+        <item>
+            <title>1.4.1 beta</title>
+            <pubDate>Mon, 02 Dec 2019 9:40:07 AM +0100</pubDate>
+            <description><![CDATA[<div style="font-family:'Arial'">
+   <ul>
+    <li>Fix Song remembers it has no positions, so new positions won't be loaded until the song is refreshed</li>
+    <li>Small UI changes with big effects to the player</li>
+  </ul>
+</div>]]></description>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac.app-1.4.1.zip" sparkle:version="1.4.1" sparkle:shortVersionString="1.4.1 beta" length="12978825" type="application/octet-stream" sparkle:edSignature="Z/pspcauYIizT09qXGSrepbiCLSM9uzqBhxOpR3h3m8AvuS45v4+PkSfFc25+EOlmy0DycZT7X52Q07gA0cuBg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac1.4.1-1.4.0.delta" sparkle:version="1.4.1" sparkle:shortVersionString="1.4.1 beta" sparkle:deltaFrom="1.4.0" length="94226" type="application/octet-stream" sparkle:edSignature="qSfd78swjIOrdvrnEf+pPqARu42XuyOkf0A25ple+3gd+yHVvj/rrabNY70M+dvozGeR16TMbO69YEc03c59Bg=="/>
+            </sparkle:deltas>
+        </item>
     </channel>
 </rss>
