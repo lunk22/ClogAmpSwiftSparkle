@@ -39,5 +39,22 @@
                 <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac1.4.2-1.4.0.delta" sparkle:version="1.4.2" sparkle:shortVersionString="1.4.2 beta" sparkle:deltaFrom="1.4.0" length="107655" type="application/octet-stream" sparkle:edSignature="PLThO/+8z2w5ilQcFaxML745VwKp4+QQ18kW+NgWVH/53e+YxCAx/TjR3eSCtW/NMDAhFvMyeaKCmDRWcr8VCA=="/>
             </sparkle:deltas>
         </item>
+        <item>
+            <title>1.4.3 beta</title>
+            <pubDate>Tue, 07 Jan 2020 10:54:53 AM +0100</pubDate>
+            <description><![CDATA[<div style="font-family:'Arial'">
+   <ul>
+    <li>Support symlinks in music and PDF directories (see <a href="https://www.howtogeek.com/297721/how-to-create-and-use-symbolic-links-aka-symlinks-on-a-mac/">this link</a> for further details about symlinks)</li>
+    <li>Fixed a bug that caused mp3s to be created if, for some reason, they don't exist upon loading them into the player</li>
+  </ul>
+</div>]]></description>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac.app-1.4.3.zip" sparkle:version="1.4.3" sparkle:shortVersionString="1.4.3 beta" length="12984709" type="application/octet-stream" sparkle:edSignature="pJZTthPeLSNcEF77toPHPtuf3CesdTh0vp1udkqqEGB9l1NkbPdMYTHbhv9UfqzFOrpL2rWdKTxzVl9Mxp/cCA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac1.4.3-1.4.2.delta" sparkle:version="1.4.3" sparkle:shortVersionString="1.4.3 beta" sparkle:deltaFrom="1.4.2" length="114180" type="application/octet-stream" sparkle:edSignature="W944ZVvIc+B3tnr6OCWz/behM2/zqm+WgWkR6zBGLCKmk4svatl8nyeCZbPCZ9+js/cphSTvSqd7Gvw7DoRLDg=="/>
+                <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac1.4.3-1.4.1.delta" sparkle:version="1.4.3" sparkle:shortVersionString="1.4.3 beta" sparkle:deltaFrom="1.4.1" length="107737" type="application/octet-stream" sparkle:edSignature="8YFCCDXkWWu6uNKTHaNVcA+b2Jg/QfEVdu+R0UhGzqLY2qdif3w7SycKhzIvk2OiGrc0dX3i8EPlRmHmRtaFDg=="/>
+                <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac1.4.3-1.4.0.delta" sparkle:version="1.4.3" sparkle:shortVersionString="1.4.3 beta" sparkle:deltaFrom="1.4.0" length="131274" type="application/octet-stream" sparkle:edSignature="Osp0g6M4gQVQiXCYOP0oKd9WggLek7M8OLonzrN+g3iuWWYmAqjhcLfqcobYdhV9NnZc7qk5UZNGpJ/mkDwHCA=="/>
+            </sparkle:deltas>
+        </item>
     </channel>
 </rss>
