@@ -56,5 +56,22 @@
                 <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac1.4.3-1.4.0.delta" sparkle:version="1.4.3" sparkle:shortVersionString="1.4.3 beta" sparkle:deltaFrom="1.4.0" length="131274" type="application/octet-stream" sparkle:edSignature="Osp0g6M4gQVQiXCYOP0oKd9WggLek7M8OLonzrN+g3iuWWYmAqjhcLfqcobYdhV9NnZc7qk5UZNGpJ/mkDwHCA=="/>
             </sparkle:deltas>
         </item>
+        <item>
+            <title>1.4.4 beta</title>
+            <pubDate>Fri, 24 Jul 2020 14:46:35 +0200</pubDate>
+            <description><![CDATA[<div style="font-family:'Arial'">
+   <ul>
+    <li>Fixed issue with macOS 11 Big Sur</li>
+  </ul>
+</div>]]></description>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac.app-1.4.4.zip" sparkle:version="1.4.4" sparkle:shortVersionString="1.4.4 beta" length="12974435" type="application/octet-stream" sparkle:edSignature="eh6zXYo3TvwZW+wPpROAGmjJljb+PF3wkXNjoD5jNq/3AGNlqjozoePXe8bthsW6U0ufnwCI2/lcCrJT6SKnCw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac1.4.4-1.4.3.delta" sparkle:version="1.4.4" sparkle:shortVersionString="1.4.4 beta" sparkle:deltaFrom="1.4.3" length="202787" type="application/octet-stream" sparkle:edSignature="4zBdpgTk6E0gC6VG2xJhl3hvIQQv/l0IjkqVs4JAylWun7xdQ6fI4hpjTBxMEhkcMZux6EORVbELEhsrXuh3BA=="/>
+                <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac1.4.4-1.4.2.delta" sparkle:version="1.4.4" sparkle:shortVersionString="1.4.4 beta" sparkle:deltaFrom="1.4.2" length="212401" type="application/octet-stream" sparkle:edSignature="iE5Io0YIEsz6Bd+fFp9inA5+pyBvmrBTG0xEbzXpNBJsk5CNetOlB9xQBvIsqtZ1zR4uWLl/KVKjgD6thejgDA=="/>
+                <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac1.4.4-1.4.1.delta" sparkle:version="1.4.4" sparkle:shortVersionString="1.4.4 beta" sparkle:deltaFrom="1.4.1" length="212409" type="application/octet-stream" sparkle:edSignature="11I85VvK7aGhIycTYyKhpinavTRuwNwkEFlWpPes1lEIrsxwJS7ii4i+yf5Vs+YBpJgm4Pae5F8CLMqcKy8ZBg=="/>
+                <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac1.4.4-1.4.0.delta" sparkle:version="1.4.4" sparkle:shortVersionString="1.4.4 beta" sparkle:deltaFrom="1.4.0" length="230467" type="application/octet-stream" sparkle:edSignature="qJmfWi1HrK9fJdsdYpuD+uG5pYAOADREMpXDH6QPzKbfcgkcxzNy82ZXUtCGDDt1B4anAAaE17cfrANg8jh9CQ=="/>
+            </sparkle:deltas>
+        </item>
     </channel>
 </rss>
