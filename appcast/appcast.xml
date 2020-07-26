@@ -73,5 +73,23 @@
                 <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac1.4.4-1.4.0.delta" sparkle:version="1.4.4" sparkle:shortVersionString="1.4.4 beta" sparkle:deltaFrom="1.4.0" length="230467" type="application/octet-stream" sparkle:edSignature="qJmfWi1HrK9fJdsdYpuD+uG5pYAOADREMpXDH6QPzKbfcgkcxzNy82ZXUtCGDDt1B4anAAaE17cfrANg8jh9CQ=="/>
             </sparkle:deltas>
         </item>
+        <item>
+            <title>1.4.5 beta</title>
+            <pubDate>Sun, 26 Jul 2020 08:49:50 +0200</pubDate>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac.app-1.4.5.zip" sparkle:version="1.4.5" sparkle:shortVersionString="1.4.5 beta" length="12974450" type="application/octet-stream" sparkle:edSignature="brjo6P8Ye8EgKSddnwVmr/zwiQQdMmzdMU9thy/EmG6bgXlf2Pae6vYXIiyEw1kBjiC7cNVOR5HcDBClW8AFAw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac1.4.5-1.4.4.delta" sparkle:version="1.4.5" sparkle:shortVersionString="1.4.5 beta" sparkle:deltaFrom="1.4.4" length="44681" type="application/octet-stream" sparkle:edSignature="QpwMRPMRsDC5XKnWzUAzfbxxVTbUoIMKCeJ21B5OY8XO9syTTCF3KLZTK5HltrPJnChqxdlHubd/hDLPuDzaAQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac1.4.5-1.4.3.delta" sparkle:version="1.4.5" sparkle:shortVersionString="1.4.5 beta" sparkle:deltaFrom="1.4.3" length="202977" type="application/octet-stream" sparkle:edSignature="Q5hlF6XEUzCDzs2ZTmaXyjs5Ig7XrOJJ75ErazjgC3Nxv4kzCHKmNBsa98NmAYncfz6jmu/e4Yj71hBTHTP+CA=="/>
+                <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac1.4.5-1.4.2.delta" sparkle:version="1.4.5" sparkle:shortVersionString="1.4.5 beta" sparkle:deltaFrom="1.4.2" length="212379" type="application/octet-stream" sparkle:edSignature="3OpxF6ROa2qAwcvKnBNGZ6EtFclaKWtROQkbnxuYWBkA7GS5VJrbbleW6PskMz7/jR1Fkbcv6NDu/zNrhdsjDQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac1.4.5-1.4.1.delta" sparkle:version="1.4.5" sparkle:shortVersionString="1.4.5 beta" sparkle:deltaFrom="1.4.1" length="212417" type="application/octet-stream" sparkle:edSignature="fXb3blIBMBCtJVficBVyMyP3o9BNRwIlHEnC4nB8S5uhhE46KluGKQAvVxauSw4UPiYuLlnfT5xbyB3BN4loBQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac1.4.5-1.4.0.delta" sparkle:version="1.4.5" sparkle:shortVersionString="1.4.5 beta" sparkle:deltaFrom="1.4.0" length="231280" type="application/octet-stream" sparkle:edSignature="Gauz3rCbp6snx0VMT85+5lVlLz2GGc7VSbCoDdJ8nUjzkWpjE0zfO1UEpu2qtis5Knc1EpBn/1TCG5CUReCSCg=="/>
+            </sparkle:deltas>
+            <description><![CDATA[<div style="font-family:'Arial'">
+   <ul>
+    <li>Fixed crash in playlists, if no song has been selected and the remove button is clicked</li>
+  </ul>
+</div>]]></description>
+        </item>
     </channel>
 </rss>
