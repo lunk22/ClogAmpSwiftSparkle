@@ -129,5 +129,21 @@
                 <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac1.4.7-1.4.1.delta" sparkle:version="1.4.7" sparkle:shortVersionString="1.4.7 beta" sparkle:deltaFrom="1.4.1" length="218877" type="application/octet-stream" sparkle:edSignature="Q9VYtPKHrtg382n3eCA5XXpIp5c1uvt9hqSIs6CvgVy3Mmf3Myx32/hYVs6ZNYdlwpXAUM7M8n8QuZfZWxMgAw=="/>
             </sparkle:deltas>
         </item>
+        <item>
+            <title>1.4.8 beta</title>
+            <pubDate>Tue, 02 Nov 2021 23:14:13 +0100</pubDate>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac.app-1.4.8.zip" sparkle:version="1.4.8" sparkle:shortVersionString="1.4.8 beta" length="12696342" type="application/octet-stream" sparkle:edSignature="sx9RQ/t+43GgCPWhryZmtw0hy+Fth3QcvV1borifhew3rQjtaT0oyrTCA/5TFFB5zMm/VNfITOem1rNjFHBiCg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac1.4.8-1.4.1.delta" sparkle:version="1.4.8" sparkle:shortVersionString="1.4.8 beta" sparkle:deltaFrom="1.4.1" length="1821941" type="application/octet-stream" sparkle:edSignature="UfMv7FPwZ+fzDFLDcFN2IqAvqjyIhV7c6iiKZRW3sSKqhS1VNERJDnkCUYTF3i5UPypL2DkjUWBVEkBstnFpCw=="/>
+                <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac1.4.8-1.4.0.delta" sparkle:version="1.4.8" sparkle:shortVersionString="1.4.8 beta" sparkle:deltaFrom="1.4.0" length="1839249" type="application/octet-stream" sparkle:edSignature="maLhnkHjVoidtSVca7YoLfzCzejTYbeR3mKdTGBmq3/g1IzEQAqvxp/0S1crtZOUd+eNdkxeZ3K1l7rL2A9uDQ=="/>
+            </sparkle:deltas>
+            <description><![CDATA[<div style="font-family:'Arial'">
+   <ul>
+    <li>Native M1 / Pro / Max. support</li>
+    <li>Supportability: Song Log added in ~/Library/Application Support/ClogAmpSwift</li>
+  </ul>
+</div>]]></description>
+        </item>
     </channel>
 </rss>
