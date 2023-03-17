@@ -226,104 +226,6 @@
 			<li>Fix alignments of textfields in the position tab</li>
 		</ul>
 	</div>
-
-	<p>1.5.1</p>
-	<div>
-		<ul>
-			<li>Adjustments of all tables</li>
-			<ul>
-				<li>The last column is now fixed to the end of the table</li>
-				<li>If the last column has been previously adjusted, it'll might not be at the end of the table.<br/>
-				=> In this case reduce the window width so the column reaches the end of the table.</li>
-			</ul>
-			<li><b>Wrapping positions!</b></li>
-		</ul>
-	</div>
-
-	<p>1.5.0</p>
-	<div style="font-family:'Arial'">
-		<ul>
-		 <li>Fix crash when loading a song</li>
-		 <li>Fix crash in playlists when a row without song is selected</li>
-		 <li>Fix crash when importing positions with time < 0</li>
-		 <li>Fix crash when reading the file path of a song</li>
-		 <li>Add invisible buttons to increase and decrease the current songs playback speed (and volume)</li>
-	   </ul>
-	 </div>
-
-	<p>1.4.9</p>
-	<div style="font-family:'Arial'">
-		<ul>
-		 <li>Fixed a crash when importing positions</li>
-		 <li>Minor UI overhaul</li>
-	   </ul>
-	 </div>
-
-	<p>1.4.8</p>
-	<div style="font-family:'Arial'">
-		<ul>
-		 <li>Native M1 / Pro / Max. support</li>
-		 <li>Supportability: Song Log added in ~/Library/Application Support/ClogAmpSwift</li>
-	   </ul>
-	 </div>
-
-	<p>1.4.7</p>
-	<div style="font-family:'Arial'">
-		<ul>
-		 <li>Added Ability to make the position table automatically scroll the currently active position in the song into the center of view</li>
-	   </ul>
-	 </div>
-
-	<p>1.4.6</p>
-	<div style="font-family:'Arial'">
-		<ul>
-		 <li>Fixed an issue where history items would not be displayed with the correct time, if daylight savings time was in effect</li>
-	   </ul>
-	 </div>
-
-	<p>1.4.5</p>
-	<div style="font-family:'Arial'">
-		<ul>
-		 <li>Fixed crash in playlists, if no song has been selected and the remove button is clicked</li>
-	   </ul>
-	 </div>
-
-	<p>1.4.4</p>
-	<div style="font-family:'Arial'">
-		<ul>
-		 <li>Fixed issue with macOS 11 Big Sur</li>
-	   </ul>
-	 </div>
-
-	<p>1.4.3</p>
-	<div style="font-family:'Arial'">
-		<ul>
-		 <li>Support symlinks in music and PDF directories (see <a href="https://www.howtogeek.com/297721/how-to-create-and-use-symbolic-links-aka-symlinks-on-a-mac/">this link</a> for further details about symlinks)</li>
-		 <li>Fixed a bug that caused mp3s to be created if, for some reason, they don't exist upon loading them into the player</li>
-	   </ul>
-	 </div>
-
-	<p>1.4.2</p>
-	<div style="font-family:'Arial'">
-	<ul>
-		<li>Under the hood improvments</li>
-	</ul>
-	</div>
-	<p>1.4.1</p>
-	<div style="font-family:'Arial'">
-		<ul>
-		 <li>Fix Song remembers it has no positions, so new positions won't be loaded until the song is refreshed</li>
-		 <li>Small UI changes with big effects to the player</li>
-	   </ul>
-	 </div>
-
-	<p>1.4.0</p>
-	<div style="font-family:'Arial'">
-		<ul>
-		 <li>Auto-determined BPMs are now being saved</li>
-		 <li>A beats player has been introduced. Just type/paste the beats (like &a1 &2 for a Basic) and set a speed (beats per minute) and hear how it sounds</li>
-	   </ul>
-	 </div>
 </div>]]></description>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
             <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac.app-1.5.2.zip" sparkle:version="1.5.2" sparkle:shortVersionString="1.5.2 beta" length="12903814" type="application/octet-stream" sparkle:edSignature="a8V5NkofWuoIE7jhz/QdTfEqNLIzMj3ide7GfE5IA2iHxAO2Aqs6IrOEKZtY8P5wg/GJnp45p/311Vy9SZ8yCw=="/>
@@ -334,6 +236,29 @@
                 <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac1.5.2-1.4.8.delta" sparkle:version="1.5.2" sparkle:shortVersionString="1.5.2 beta" sparkle:deltaFrom="1.4.8" length="623453" type="application/octet-stream" sparkle:edSignature="y7WupYHja3PSQ42oTLft/VH5ZvB7vQ/0Da5FCEcNDnBWYE0YHm/gB9XoY7fkcOtx5olWGk220x3CPNM5GYCbAw=="/>
                 <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac1.5.2-1.4.7.delta" sparkle:version="1.5.2" sparkle:shortVersionString="1.5.2 beta" sparkle:deltaFrom="1.4.7" length="2107976" type="application/octet-stream" sparkle:edSignature="Gg8AmFhL6WBaZ9v17ISQIoOdIBM9WkgOWck9a/LOEVahAXOJIcFqm8ZOp8jx9Q6BEXYszUP4kDG+QC2XyC16DQ=="/>
                 <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac1.5.2-1.4.6.delta" sparkle:version="1.5.2" sparkle:shortVersionString="1.5.2 beta" sparkle:deltaFrom="1.4.6" length="2109580" type="application/octet-stream" sparkle:edSignature="cxOUmPVE10WGDTSvkZ3ejrRC0fv/a0eTSGqukr8FBWwdQNy11VWdS3642Yo6pwZiI0VFd/ND4wuycOsqB07hAw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>1.5.3 beta</title>
+            <pubDate>Fri, 17 Mar 2023 08:09:12 +0100</pubDate>
+            <description><![CDATA[<div style="font-family:'Arial'">
+	<p>1.5.3
+	</p>
+	<div>
+		<ul>
+			<li>Fix tab order in positions</li>
+		</ul>
+	</div>
+</div>]]></description>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac.app-1.5.3.zip" sparkle:version="1.5.3" sparkle:shortVersionString="1.5.3 beta" length="12904308" type="application/octet-stream" sparkle:edSignature="1y/0UEnmvz5CB4wMw+hPccF4rMJ+ZEduAD0i/NUv5+K2Ea+vAeaIvgV70glaxHhEVKq4qYm0lF4vFFXJX+lGDg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac1.5.3-1.5.2.delta" sparkle:version="1.5.3" sparkle:shortVersionString="1.5.3 beta" sparkle:deltaFrom="1.5.2" length="91812" type="application/octet-stream" sparkle:edSignature="vtX9MR7bHkYsxazIEOGiT2cPUm9dAbmN6rPlYjTZO90GrSn3x+EYav6TaNYrYwzNzqfIXo6pOMWi1tsSYDrBDQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac1.5.3-1.5.1.delta" sparkle:version="1.5.3" sparkle:shortVersionString="1.5.3 beta" sparkle:deltaFrom="1.5.1" length="101739" type="application/octet-stream" sparkle:edSignature="zVmb0TI/LjCD7avnDf3fvRQkz7OOr/Khv/LFJoM3SpRlRhJ3AMUZoJGmt964MjX8K4eYFZ4pIHpV9Oak4qtkDg=="/>
+                <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac1.5.3-1.5.0.delta" sparkle:version="1.5.3" sparkle:shortVersionString="1.5.3 beta" sparkle:deltaFrom="1.5.0" length="223413" type="application/octet-stream" sparkle:edSignature="0htXHgJCIJG/+IBPXP3VNOTN3DxhWH1QRmehdBELgza7YbrKkz7NPThoeXB1yW7jd2AqCNjqKH3bvF1tW3QbBg=="/>
+                <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac1.5.3-1.4.9.delta" sparkle:version="1.5.3" sparkle:shortVersionString="1.5.3 beta" sparkle:deltaFrom="1.4.9" length="234415" type="application/octet-stream" sparkle:edSignature="6jRAb6x/nhKVxOCNEHKRn1oLQBrU/x96rpo7VOw8vuy3TRfy8EE7fe945sPl38h5ysW8IAlbGm+ids3xqEZ5CA=="/>
+                <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac1.5.3-1.4.8.delta" sparkle:version="1.5.3" sparkle:shortVersionString="1.5.3 beta" sparkle:deltaFrom="1.4.8" length="625196" type="application/octet-stream" sparkle:edSignature="pMYj4UT9tBfu25DimusiStZbLA8iSkUvW4+s/FoUYZc9Gu/AKiePezd0LroyO8FALf0TlqtDS/c1OaCB7QhFCg=="/>
+                <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac1.5.3-1.4.7.delta" sparkle:version="1.5.3" sparkle:shortVersionString="1.5.3 beta" sparkle:deltaFrom="1.4.7" length="2109339" type="application/octet-stream" sparkle:edSignature="zCxxrZrUjg/cR3Zs5BlbKBS6DFIUg9l3aD4TQPcLl+iXfRdRrizyOSNPdXfk5de/Sk4xqx26T/14MQ8fpFIVBw=="/>
             </sparkle:deltas>
         </item>
     </channel>
