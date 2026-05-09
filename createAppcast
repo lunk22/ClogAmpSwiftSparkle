@@ -1,4 +1,5 @@
 DIR=$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )
-rm -rf ~/Library/Caches/Sparkle_generate_appcast
+rm -rf ~/Library/Caches/Sparkle_generate_appcast/*
 cd "${DIR}"
-./Sparkle/bin/generate_appcast ./appcast
+./Sparkle/bin/generate_appcast ./appcast --embed-release-notes --maximum-deltas 0
+rm -rf ~/Library/Caches/Sparkle_generate_appcast/*
