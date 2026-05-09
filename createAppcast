@@ -1,4 +1,25 @@
 DIR=$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )
-rm -rf ~/Library/Caches/Sparkle_generate_appcast
+rm -rf ~/Library/Caches/Sparkle_generate_appcast/*
 cd "${DIR}"
 ./Sparkle/bin/generate_appcast ./appcast
+python3 << 'EOF'
+import re, os, glob
+appcast = './appcast/appcast.xml'
+with open(appcast) as f:
+    content = f.read()
+def embed(m):
+    indent, url = m.group(1), m.group(2)
+    path = os.path.join('./appcast', url.split('/')[-1])
+    if os.path.exists(path):
+        with open(path) as f:
+            html = f.read().strip()
+        return indent + '<description><![CDATA[' + html + ']]></description>'
+    return ''
+content = re.sub(r'([ \t]*)<sparkle:releaseNotesLink>(.*?)</sparkle:releaseNotesLink>', embed, content)
+content = re.sub(r'\s*<sparkle:deltas>.*?</sparkle:deltas>', '', content, flags=re.DOTALL)
+with open(appcast, 'w') as f:
+    f.write(content)
+for f in glob.glob('./appcast/*.delta'):
+    os.remove(f)
+EOF
+rm -rf ~/Library/Caches/Sparkle_generate_appcast/*
