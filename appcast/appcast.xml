@@ -3,131 +3,6 @@
     <channel>
         <title>ClogAmpMac</title>
         <item>
-            <title>1.4.0 beta</title>
-            <pubDate>Fri, 29 Nov 2019 8:17:47 AM +0100</pubDate>
-            <description><![CDATA[<div style="font-family:'Arial'">
-   <ul>
-    <li>Auto-determined BPMs are now being saved</li>
-    <li>A beats player has been introduced. Just type/paste the beats (like &a1 &2 for a Basic) and set a speed (beats per minute) and hear how it sounds</li>
-  </ul>
-</div>]]></description>
-            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac.app-1.4.0.zip" sparkle:version="1.4.0" sparkle:shortVersionString="1.4.0 beta" length="20490938" type="application/octet-stream" sparkle:edSignature="p0AfNUiPWhbUIZdKZzTnRWdUbIcvm35ZdHJUFfdbLmrFMstjjk3EtoTVdWHNPKB8Fgw5aFX+0l8qkxb+TQP9Cw=="/>
-        </item>
-        <item>
-            <title>1.4.1 beta</title>
-            <pubDate>Mon, 02 Dec 2019 9:40:07 AM +0100</pubDate>
-            <description><![CDATA[<div style="font-family:'Arial'">
-   <ul>
-    <li>Fix Song remembers it has no positions, so new positions won't be loaded until the song is refreshed</li>
-    <li>Small UI changes with big effects to the player</li>
-  </ul>
-</div>]]></description>
-            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac.app-1.4.1.zip" sparkle:version="1.4.1" sparkle:shortVersionString="1.4.1 beta" length="12978825" type="application/octet-stream" sparkle:edSignature="Z/pspcauYIizT09qXGSrepbiCLSM9uzqBhxOpR3h3m8AvuS45v4+PkSfFc25+EOlmy0DycZT7X52Q07gA0cuBg=="/>
-        </item>
-        <item>
-            <title>1.4.2 beta</title>
-            <pubDate>Thu, 05 Dec 2019 2:07:03 PM +0100</pubDate>
-            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac.app-1.4.2.zip" sparkle:version="1.4.2" sparkle:shortVersionString="1.4.2 beta" length="12977612" type="application/octet-stream" sparkle:edSignature="RW/WZU5ja+Qt0TPgJd2Z6xmCsZVP5+B7E4gHtJAwFT0yhSK7DicMu2cKhWIclYjFlccmw6lGa2HVdSy373ZqBQ=="/>
-        </item>
-        <item>
-            <title>1.4.3 beta</title>
-            <pubDate>Tue, 07 Jan 2020 10:54:53 AM +0100</pubDate>
-            <description><![CDATA[<div style="font-family:'Arial'">
-   <ul>
-    <li>Support symlinks in music and PDF directories (see <a href="https://www.howtogeek.com/297721/how-to-create-and-use-symbolic-links-aka-symlinks-on-a-mac/">this link</a> for further details about symlinks)</li>
-    <li>Fixed a bug that caused mp3s to be created if, for some reason, they don't exist upon loading them into the player</li>
-  </ul>
-</div>]]></description>
-            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac.app-1.4.3.zip" sparkle:version="1.4.3" sparkle:shortVersionString="1.4.3 beta" length="12984709" type="application/octet-stream" sparkle:edSignature="pJZTthPeLSNcEF77toPHPtuf3CesdTh0vp1udkqqEGB9l1NkbPdMYTHbhv9UfqzFOrpL2rWdKTxzVl9Mxp/cCA=="/>
-        </item>
-        <item>
-            <title>1.4.4 beta</title>
-            <pubDate>Fri, 24 Jul 2020 14:46:35 +0200</pubDate>
-            <description><![CDATA[<div style="font-family:'Arial'">
-   <ul>
-    <li>Fixed issue with macOS 11 Big Sur</li>
-  </ul>
-</div>]]></description>
-            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac.app-1.4.4.zip" sparkle:version="1.4.4" sparkle:shortVersionString="1.4.4 beta" length="12974435" type="application/octet-stream" sparkle:edSignature="eh6zXYo3TvwZW+wPpROAGmjJljb+PF3wkXNjoD5jNq/3AGNlqjozoePXe8bthsW6U0ufnwCI2/lcCrJT6SKnCw=="/>
-        </item>
-        <item>
-            <title>1.4.5 beta</title>
-            <pubDate>Sun, 26 Jul 2020 08:49:50 +0200</pubDate>
-            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac.app-1.4.5.zip" sparkle:version="1.4.5" sparkle:shortVersionString="1.4.5 beta" length="12974450" type="application/octet-stream" sparkle:edSignature="brjo6P8Ye8EgKSddnwVmr/zwiQQdMmzdMU9thy/EmG6bgXlf2Pae6vYXIiyEw1kBjiC7cNVOR5HcDBClW8AFAw=="/>
-            <description><![CDATA[<div style="font-family:'Arial'">
-   <ul>
-    <li>Fixed crash in playlists, if no song has been selected and the remove button is clicked</li>
-  </ul>
-</div>]]></description>
-        </item>
-        <item>
-            <title>1.4.6 beta</title>
-            <pubDate>Sun, 09 Aug 2020 10:42:56 +0200</pubDate>
-            <description><![CDATA[<div style="font-family:'Arial'">
-   <ul>
-    <li>Fixed an issue where history items would not be displayed with the correct time, if daylight savings time was in effect</li>
-  </ul>
-</div>]]></description>
-            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac.app-1.4.6.zip" sparkle:version="1.4.6" sparkle:shortVersionString="1.4.6 beta" length="12974543" type="application/octet-stream" sparkle:edSignature="z3LV7BYj9dYz3mUEt9d6RodKLfghfAKEfV+7eVWuauVv4X0yr3xKzCq9b/OL0h+gxd2gSlsKUXysmQGCXsKNBw=="/>
-        </item>
-        <item>
-            <title>1.4.7 beta</title>
-            <pubDate>Sun, 16 Aug 2020 09:41:59 +0200</pubDate>
-            <description><![CDATA[<div style="font-family:'Arial'">
-   <ul>
-    <li>Added Ability to make the position table automatically scroll the currently active position in the song into the center of view</li>
-  </ul>
-</div>]]></description>
-            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac.app-1.4.7.zip" sparkle:version="1.4.7" sparkle:shortVersionString="1.4.7 beta" length="12976545" type="application/octet-stream" sparkle:edSignature="T/YPyBGqXHTBaIILfrARgI3q6T7ZhnTMVKJoFYYhmtvz5pa/iHF2RdS9lUAq/f2tuSCUw5oF3uBzCi3ap7POCA=="/>
-        </item>
-        <item>
-            <title>1.4.8 beta</title>
-            <pubDate>Tue, 02 Nov 2021 23:14:13 +0100</pubDate>
-            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac.app-1.4.8.zip" sparkle:version="1.4.8" sparkle:shortVersionString="1.4.8 beta" length="12696342" type="application/octet-stream" sparkle:edSignature="sx9RQ/t+43GgCPWhryZmtw0hy+Fth3QcvV1borifhew3rQjtaT0oyrTCA/5TFFB5zMm/VNfITOem1rNjFHBiCg=="/>
-            <description><![CDATA[<div style="font-family:'Arial'">
-   <ul>
-    <li>Native M1 / Pro / Max. support</li>
-    <li>Supportability: Song Log added in ~/Library/Application Support/ClogAmpSwift</li>
-  </ul>
-</div>]]></description>
-        </item>
-        <item>
-            <title>1.4.9 beta</title>
-            <pubDate>Tue, 25 Oct 2022 19:50:50 +0200</pubDate>
-            <description><![CDATA[<div style="font-family:'Arial'">
-   <ul>
-    <li>Fixed a crash when importing positions</li>
-    <li>Minor UI overhaul</li>
-  </ul>
-</div>]]></description>
-            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac.app-1.4.9.zip" sparkle:version="1.4.9" sparkle:shortVersionString="1.4.9 beta" length="12903014" type="application/octet-stream" sparkle:edSignature="iXDtMVB5fjz7GPpX2cpnnSJHWoPW+nRbMyC29RyJeVt7MPdWgw8qS8CEIm+RaaQP4L/7Pe2b04Jo3qM9WkEMBQ=="/>
-        </item>
-        <item>
-            <title>1.5.0 beta</title>
-            <pubDate>Wed, 09 Nov 2022 20:03:25 +0100</pubDate>
-            <description><![CDATA[<div style="font-family:'Arial'">
-   <ul>
-    <li>Fix crash when loading a song</li>
-    <li>Fix crash in playlists when a row without song is selected</li>
-    <li>Fix crash when importing positions with time < 0</li>
-    <li>Fix crash when reading the file path of a song</li>
-    <li>Add invisible buttons to increase and decrease the current songs playback speed (and volume)</li>
-  </ul>
-</div>]]></description>
-            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac.app-1.5.0.zip" sparkle:version="1.5.0" sparkle:shortVersionString="1.5.0 beta" length="12903276" type="application/octet-stream" sparkle:edSignature="2Sv7l4Px7xN1nik/Ej/qAlh/2LsQrG59kWTUo+H8rFYx4h52lQm/gp1GiHVrELFyKvORfTibYPaql0ENOMHZAA=="/>
-        </item>
-        <item>
             <title>1.5.1 beta</title>
             <pubDate>Sun, 27 Nov 2022 08:24:28 +0100</pubDate>
             <description><![CDATA[<div style="font-family:'Arial'">
@@ -145,7 +20,9 @@
 	</div>
 </div>]]></description>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac.app-1.5.1.zip" sparkle:version="1.5.1" sparkle:shortVersionString="1.5.1 beta" length="12903128" type="application/octet-stream" sparkle:edSignature="71YFUPVXXfHc1NmlEfvkxJQ5vamKTWzEPImiW/TZaegAchgIMnqzJQXq0S76VME9oizism0b28hwx12LGUa0AA=="/>
+            <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac.app-1.5.1.zip" length="12903128" type="application/octet-stream" sparkle:edSignature="71YFUPVXXfHc1NmlEfvkxJQ5vamKTWzEPImiW/TZaegAchgIMnqzJQXq0S76VME9oizism0b28hwx12LGUa0AA=="/>
+            <sparkle:version>1.5.1</sparkle:version>
+            <sparkle:shortVersionString>1.5.1 beta</sparkle:shortVersionString>
         </item>
         <item>
             <title>1.5.2 beta</title>
@@ -159,7 +36,9 @@
 	</div>
 </div>]]></description>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac.app-1.5.2.zip" sparkle:version="1.5.2" sparkle:shortVersionString="1.5.2 beta" length="12903814" type="application/octet-stream" sparkle:edSignature="a8V5NkofWuoIE7jhz/QdTfEqNLIzMj3ide7GfE5IA2iHxAO2Aqs6IrOEKZtY8P5wg/GJnp45p/311Vy9SZ8yCw=="/>
+            <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac.app-1.5.2.zip" length="12903814" type="application/octet-stream" sparkle:edSignature="a8V5NkofWuoIE7jhz/QdTfEqNLIzMj3ide7GfE5IA2iHxAO2Aqs6IrOEKZtY8P5wg/GJnp45p/311Vy9SZ8yCw=="/>
+            <sparkle:version>1.5.2</sparkle:version>
+            <sparkle:shortVersionString>1.5.2 beta</sparkle:shortVersionString>
         </item>
         <item>
             <title>1.5.3 beta</title>
@@ -173,271 +52,9 @@
 	</div>
 </div>]]></description>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac.app-1.5.3.zip" sparkle:version="1.5.3" sparkle:shortVersionString="1.5.3 beta" length="12904308" type="application/octet-stream" sparkle:edSignature="1y/0UEnmvz5CB4wMw+hPccF4rMJ+ZEduAD0i/NUv5+K2Ea+vAeaIvgV70glaxHhEVKq4qYm0lF4vFFXJX+lGDg=="/>
-        </item>
-        <item>
-            <title>1.5.4 beta</title>
-            <pubDate>Sat, 01 Apr 2023 09:55:30 +0200</pubDate>
-            <description><![CDATA[<div style="font-family:'Arial'">
-	<p>1.5.4</p>
-	<div>
-		<ul>
-			<li>Scroll to top on play</li>
-			<li>Fix crash when copying PDF data to positions</li>
-			<li>Resize position rows after changing description text</li>
-		</ul>
-	</div>
-</div>]]></description>
-            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac.app-1.5.4.zip" sparkle:version="1.5.4" sparkle:shortVersionString="1.5.4 beta" length="8964941" type="application/octet-stream" sparkle:edSignature="eRchE3mHWqE954QyiRBZNWtY+n3Yo/fslFJFA1i/dNfb22oxCehC3Dz1a1hXn2IgXXTH+ciZTNU4x153PMtcDA=="/>
-        </item>
-        <item>
-            <title>1.5.5 beta</title>
-            <pubDate>Sun, 02 Apr 2023 20:33:02 +0200</pubDate>
-            <description><![CDATA[<div style="font-family:'Arial'">
-	<p>1.5.5</p>
-	<div>
-		<ul>
-			<li>Fix an issue with positions not being saved properly</li>
-		</ul>
-	</div>
-</div>]]></description>
-            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac.app-1.5.5.zip" sparkle:version="1.5.5" sparkle:shortVersionString="1.5.5 beta" length="8964972" type="application/octet-stream" sparkle:edSignature="Nv6CGZTKMnzYdfO2Fn7xDfHJTjjmJn8QfYf3H3nx1BGgyCgYyHyGLWV+m0vR4bCgHpLo++kvUKygivyALaV5BQ=="/>
-        </item>
-        <item>
-            <title>1.5.6 beta</title>
-            <pubDate>Sat, 15 Apr 2023 07:53:36 +0200</pubDate>
-            <description><![CDATA[<div style="font-family:'Arial'">
-	<p>1.5.6</p>
-	<div>
-		<ul>
-			<li>Support for multi-line position printing</li>
-		</ul>
-	</div>
-</div>]]></description>
-            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac.app-1.5.6.zip" sparkle:version="1.5.6" sparkle:shortVersionString="1.5.6 beta" length="8965174" type="application/octet-stream" sparkle:edSignature="x47UcrI0ns4Nje3WLqCGeUMqCBPjvLoPe3Jbt3dN7vlStOtHkD7vdfSWnBnDgFtKGh+XTO2VCIjAaFanOodrAw=="/>
-        </item>
-        <item>
-            <title>1.5.7 beta</title>
-            <pubDate>Thu, 27 Apr 2023 16:00:17 +0200</pubDate>
-            <description><![CDATA[<div style="font-family:'Arial'">
-	<p>1.5.7</p>
-	<div>
-		<ul>
-			<li>Fix issues during song loading due to PDF assignments</li>
-			<li>Improve performance loading</li>
-		</ul>
-	</div>
-</div>]]></description>
-            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac.app-1.5.7.zip" sparkle:version="1.5.7" sparkle:shortVersionString="1.5.7 beta" length="8971201" type="application/octet-stream" sparkle:edSignature="m7VLWDmoab+/gRHC68z/3odhlPUKqnzcjcP8ioWnUXTz8G2O/YG4jQbmZNGVdMhVI60fOZyJ7GobKrKk9R1dDw=="/>
-        </item>
-        <item>
-            <title>1.5.8 beta</title>
-            <pubDate>Tue, 20 Jun 2023 14:38:34 +0200</pubDate>
-            <description><![CDATA[<div style="font-family:'Arial'">
-	<p>1.5.8</p>
-	<div>
-		<ul>
-			<li>Improve App Performance</li>
-			<li>Tab in Positions fixed</li>
-		</ul>
-	</div>
-</div>]]></description>
-            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac.app-1.5.8.zip" sparkle:version="1.5.8" sparkle:shortVersionString="1.5.8 beta" length="8967458" type="application/octet-stream" sparkle:edSignature="auDGi5JstBVnRKMnwZfniTMlmd5MZOiRiXfClQI6FTpuAqls1yKdOrdVcpg6N/Z/4Hj0JtgRkRJk9MbdVdzODw=="/>
-        </item>
-        <item>
-            <title>1.6.0 beta</title>
-            <pubDate>Wed, 19 Jul 2023 17:15:03 +0200</pubDate>
-            <description><![CDATA[<div style="font-family:'Arial'">
-	<p>1.6.0</p>
-	<div>
-		<ul>
-			<li>New update algorithm for playing songs</li>
-			<li>Added option to automatically open a particular view when loading a song</li>
-			<li>History Print Layout adjustments</li>
-			<li>Fix a bug where the positions table was not updated when loading a song from a playlist</li>
-		</ul>
-	</div>
-</div>]]></description>
-            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac.app-1.6.0.zip" sparkle:version="1.6.0" sparkle:shortVersionString="1.6.0 beta" length="8975765" type="application/octet-stream" sparkle:edSignature="9fNzM1qa5tFv8ZhjIcRY26Q1sOFDT8j1/lx6LbhEEDH9FAJISOUVNBkZ2Yom9cpa+9OAuG02FdLLR2uUsZ1JBQ=="/>
-        </item>
-        <item>
-            <title>1.6.1 beta</title>
-            <pubDate>Tue, 12 Dec 2023 11:58:24 +0100</pubDate>
-            <description><![CDATA[<div style="font-family:'Arial'">
-	<p>1.6.1</p>
-	<div>
-		<ul>
-			<li>New Audio Player (e.g. no sound cuts when speeding up or slowing down)</li>
-			<li>Beats Column in the Positions (can be enabled in settings, please restart the app afterwards)</li>
-			<li>Beats are changeable, behaviour for the adaption of following positions can be chosen in settings</li>
-			<li>Added an option to save the currently loaded song manually (CMD+S)</li>
-			<li>App can now be minimized</li>
-			<li>Fixed a bug when importing .infoexports with line breaks</li>
-			<li>Many under the hood improvements</li>
-		</ul>
-	</div>
-</div>]]></description>
-            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac.app-1.6.1.zip" sparkle:version="1.6.1" sparkle:shortVersionString="1.6.1 beta" length="9213699" type="application/octet-stream" sparkle:edSignature="7IrJWFWcK7wIOwcgOkTvX83U5tdTHXUyCr+bQY06vgrKWCenwjnUrYEG4Ckax9ls7FlC4DcIdo17EKboxftOBg=="/>
-        </item>
-        <item>
-            <title>1.6.2 beta</title>
-            <pubDate>Sun, 03 Mar 2024 10:39:40 +0100</pubDate>
-            <description><![CDATA[<div style="font-family:'Arial'">
-	<p>1.6.2</p>
-	<div>
-		<ul>
-			<li>Fix a bug where positions could not be changed in paused state</li>
-			<li>Fix inaccurate time display</li>
-			<li>Add support for CMD + A to select all</li>
-			<li>Add keyboard shortuts:</li>
-			<ul>
-				<li>A to add a position</li>
-				<li>Shift + to increase the playback speed by 5%</li>
-				<li>Shift - to decrease the playback speed by 5%</li>
-			</ul>
-			<li>Add option to adjust new positions when adding them (see settings)</li>
-		</ul>
-	</div>
-</div>]]></description>
-            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac.app-1.6.2.zip" sparkle:version="1.6.2" sparkle:shortVersionString="1.6.2 beta" length="9200007" type="application/octet-stream" sparkle:edSignature="MVz8JEYEwMlk5LXWLyg6eueJMoUwY7uShSZEXr+9GtmnemCN0zgrb1PxMDhk2NTZzFQGaGgfztsdHMBUG2DNCg=="/>
-        </item>
-        <item>
-            <title>1.6.3 beta</title>
-            <pubDate>Thu, 07 Mar 2024 15:23:12 +0100</pubDate>
-            <description><![CDATA[<div style="font-family:'Arial'">
-	<p>1.6.3</p>
-	<div>
-		<ul>
-			<li>Fix issue with line breaks in printed positions</li>
-			<li>Add option to change the highlight color along with the text color</li>
-		</ul>
-	</div>
-</div>]]></description>
-            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac.app-1.6.3.zip" sparkle:version="1.6.3" sparkle:shortVersionString="1.6.3 beta" length="9214633" type="application/octet-stream" sparkle:edSignature="u2CpksGGxczbDQDMNnO7JMqIzOofJaXVBBwNkIJ2ovNghUf1b6nsZemaz8z37+oyWlqWVGH/ESlKRO4z5ejFBg=="/>
-        </item>
-        <item>
-            <title>1.6.4 beta</title>
-            <pubDate>Sun, 08 Sep 2024 14:35:38 +0200</pubDate>
-            <description><![CDATA[<div style="font-family:'Arial'">
-  <p>1.6.4</p>
-	<div>
-		<ul>
-			<li>Add Equalizer (CMD+E)</li>
-			<li>Updated Player UI</li>
-		</ul>
-	</div>
-</div>]]></description>
-            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac.app-1.6.4.zip" sparkle:version="1.6.4" sparkle:shortVersionString="1.6.4 beta" length="9243229" type="application/octet-stream" sparkle:edSignature="irB1snza04IUdwEr3TaBNvKnXkpcI0b8XxHV390jiLYlq5/BHz5AvwvaYt5z7VqCTP+y7xLzA6tJl1N9J6xxBQ=="/>
-        </item>
-        <item>
-            <title>1.6.5 beta</title>
-            <pubDate>Mon, 18 Nov 2024 18:11:01 +0100</pubDate>
-            <description><![CDATA[<div style="font-family:'Arial'">
-   <p>1.6.5</p>
-   <ul>
-    <li>Fix crash when adjusting position beats</li>
-  </ul>
-</div>]]></description>
-            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac.app-1.6.5.zip" sparkle:version="1.6.5" sparkle:shortVersionString="1.6.5 beta" length="9233690" type="application/octet-stream" sparkle:edSignature="jYN9lTFxjS15pBJeJBzdv3Cj3tT+hQA+kKhuv+auEv83TUvsicOVHycHLHJcxxicmOoWektBq029xh2xcr9yCQ=="/>
-        </item>
-        <item>
-            <title>1.6.6 beta</title>
-            <pubDate>Sun, 24 Nov 2024 12:34:12 +0100</pubDate>
-            <description><![CDATA[<div style="font-family:'Arial'">
-   <p>1.6.6</p>
-   <ul>
-    <li>All Positions with the same name can be changed in one go (new setting)</li>
-		<li>Replace Print function with PDF export</li>
-		<li>Time window is now resizable</li>
-  </ul>
-</div>]]></description>
-            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac.app-1.6.6.zip" sparkle:version="1.6.6" sparkle:shortVersionString="1.6.6 beta" length="9319318" type="application/octet-stream" sparkle:edSignature="8hPXzm9aKV4HNXOXi7MNV1gyEX7qE4pXd5jOwUCSTLppN93yA+Moo6dvo+PrZ+viiAiVziOjAL6sOvhG9Qh7Bg=="/>
-        </item>
-        <item>
-            <title>1.6.7 beta</title>
-            <pubDate>Fri, 29 Nov 2024 16:07:57 +0100</pubDate>
-            <description><![CDATA[<div style="font-family:'Arial'">
-   <p>1.6.7</p>
-   <ul>
-      <li>New Settings Dialog</li>
-      <li>Updated Player UI</li>
-      <li>Updated Icons</li>
-      <li>Unified Number Display</li>
-  </ul>
-</div>]]></description>
-            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac.app-1.6.7.zip" sparkle:version="1.6.7" sparkle:shortVersionString="1.6.7 beta" length="7580633" type="application/octet-stream" sparkle:edSignature="u0K0l1jjHFdVUafUH1ANHQvsBiQh/OIIJEQ7sm6hGj2Jmaiyf2bnTGywHSjDohuCKV9BnE4oX9U0aYxABKoYAg=="/>
-        </item>
-        <item>
-            <title>1.6.8 beta</title>
-            <pubDate>Mon, 09 Dec 2024 13:41:49 +0100</pubDate>
-            <description><![CDATA[<div style="font-family:'Arial'">
-  <p>1.6.8</p>
-  <div>
-      <ul>
-          <li>Fit Position column width with double click</li>
-          <li>Right click song in table to load song or open in finder</li>
-          <li>Upgrade to Sparkle 2 for automatic updates</li>
-      </ul>
-  </div>
-</div>]]></description>
-            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac.app-1.6.8.zip" sparkle:version="1.6.8" sparkle:shortVersionString="1.6.8 beta" length="7452900" type="application/octet-stream" sparkle:edSignature="kn3FgeqzXPmfF9789mi/LAwEZm3Ff5Fu2BgYaK7QGXEzpjvHOfNtgBH2rFOXDYqUeRbglbGtiOyYXS1ONFJKDA=="/>
-        </item>
-        <item>
-            <title>1.6.9 beta</title>
-            <pubDate>Mon, 16 Dec 2024 17:10:53 +0100</pubDate>
-            <description><![CDATA[<div style="font-family:'Arial'">
-  <p>1.6.9</p>
-    <div>
-        <ul>
-            <li>Option to prevent display/system sleep while ClogAmpMac is the active application</li>
-        </ul>
-    </div>
-</div>]]></description>
-            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac.app-1.6.9.zip" sparkle:version="1.6.9" sparkle:shortVersionString="1.6.9 beta" length="7456526" type="application/octet-stream" sparkle:edSignature="l6YX4y6udaldD+63P6JrIeLyW2tUUTgd0qHxjcrNlwMzKuE/pNMWNe0fRwkTbw7oouypcNFZ9h+Wln/7OTGpBA=="/>
-        </item>
-        <item>
-            <title>1.6.10 beta</title>
-            <pubDate>Sun, 15 Jun 2025 10:54:22 +0200</pubDate>
-            <description><![CDATA[<div style="font-family:'Arial'">
-  <p>1.6.10</p>
-    <div>
-        <ul>
-            <li>Undo/Redo for text input</li>
-            <li>Basic Shortcuts support for macOS 13 Ventura and newer</li>
-        </ul>
-    </div>
-</div>]]></description>
-            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac.app-1.6.10.zip" sparkle:version="1.6.10" sparkle:shortVersionString="1.6.10 beta" length="7466571" type="application/octet-stream" sparkle:edSignature="hDyuPjD/6N7L1VMu0nS/kM7tLuksW0b09YBzJ3N8BtPEHIvv4qWcMQcHHqMFU00IQz/bIn6CBE9zDMbQVAfZAA=="/>
-        </item>
-        <item>
-            <title>1.6.11 beta</title>
-            <pubDate>Sun, 14 Sep 2025 12:48:42 +0200</pubDate>
-            <description><![CDATA[<div style="font-family:'Arial'">
-  <p>1.6.11</p>
-    <div>
-        <ul>
-            <li>Audio Normalization Option</li>
-        </ul>
-    </div>
-</div>]]></description>
-            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac.app-1.6.11.zip" sparkle:version="1.6.11" sparkle:shortVersionString="1.6.11 beta" length="9190318" type="application/octet-stream" sparkle:edSignature="zj5Qelh1vp3ErlduCxmzBtW/Ge2cE1Q14CN0SFNTUCXQafSzDiFGnsxQVw/gn/s0yp/ckIv8OUNxuPCLG9gOCQ=="/>
+            <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac.app-1.5.3.zip" length="12904308" type="application/octet-stream" sparkle:edSignature="1y/0UEnmvz5CB4wMw+hPccF4rMJ+ZEduAD0i/NUv5+K2Ea+vAeaIvgV70glaxHhEVKq4qYm0lF4vFFXJX+lGDg=="/>
+            <sparkle:version>1.5.3</sparkle:version>
+            <sparkle:shortVersionString>1.5.3 beta</sparkle:shortVersionString>
         </item>
         <item>
             <title>1.7.0 beta</title>
@@ -459,7 +76,9 @@
     </div>
 </div>]]></description>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac.app-1.7.0.zip" sparkle:version="1.7.0" sparkle:shortVersionString="1.7.0 beta" length="7647851" type="application/octet-stream" sparkle:edSignature="8mSzQjzD1yg43okXw+S+RqVsTkvMdB0I7pd4G13ySEn8tM/3lvhb0qmRbCg+oBSxWOI4q5eek5cRpRgbQA3tBg=="/>
+            <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac.app-1.7.0.zip" length="7647851" type="application/octet-stream" sparkle:edSignature="8mSzQjzD1yg43okXw+S+RqVsTkvMdB0I7pd4G13ySEn8tM/3lvhb0qmRbCg+oBSxWOI4q5eek5cRpRgbQA3tBg=="/>
+            <sparkle:version>1.7.0</sparkle:version>
+            <sparkle:shortVersionString>1.7.0 beta</sparkle:shortVersionString>
         </item>
         <item>
             <title>1.7.1 beta</title>
@@ -513,52 +132,57 @@
     </div>
 </div>]]></description>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac.app-1.7.1.zip" sparkle:version="1.7.1" sparkle:shortVersionString="1.7.1 beta" length="7666535" type="application/octet-stream" sparkle:edSignature="q5qo31wuNhT5phnaP9Uh86K5flogGhcnoQcX6HgTLpz/EeNmL8T+SgWJRq1aWxmjUmGIdZkThe2MjDD6qu19DA=="/>
+            <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac.app-1.7.1.zip" length="7666535" type="application/octet-stream" sparkle:edSignature="q5qo31wuNhT5phnaP9Uh86K5flogGhcnoQcX6HgTLpz/EeNmL8T+SgWJRq1aWxmjUmGIdZkThe2MjDD6qu19DA=="/>
+            <sparkle:version>1.7.1</sparkle:version>
+            <sparkle:shortVersionString>1.7.1 beta</sparkle:shortVersionString>
         </item>
         <item>
             <title>1.7.2 beta</title>
             <pubDate>Sat, 09 May 2026 16:42:15 +0200</pubDate>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<div style="font-family:'Arial'">
-                <p>1.7.2</p>
-                    <div>
-                        <ul>
-                            <li>
-                                <b>Position Timeline</b><br/>
-                                The seek slider in the player has been replaced by a visual timeline bar that shows all
-                                dance positions at their exact time positions. A blue fill indicates playback progress,
-                                a white playhead line marks the current position, and each named position appears as
-                                a tick mark with its label below the bar. You can click or drag anywhere on the bar
-                                to seek.<br/><br/>
+  <p>1.7.2 TEST4</p>
+  <div>
+      <ul>
+          <li>
+              <b>Position Timeline</b><br/>
+              The seek slider in the player has been replaced by a visual timeline bar that shows all
+              dance positions at their exact time positions. A blue fill indicates playback progress,
+              a white playhead line marks the current position, and each named position appears as
+              a tick mark with its label below the bar. You can click or drag anywhere on the bar
+              to seek.<br/><br/>
 
-                                The timeline is enabled by default. To switch back to the plain slider, go to
-                                Settings &gt; General and uncheck "Show Timeline".<br/>
-                                <br/>
-                            </li>
-                            <li>
-                                <b>Customizable Keyboard Shortcuts</b><br/>
-                                All keyboard shortcuts can now be configured freely in Settings &gt; Shortcuts.
-                                Shortcuts are organised into sections (File, Edit, Tools, Player, and Others) and
-                                each action shows its current binding. Click a binding field and press the desired
-                                key combination to reassign it; click it again while it is active to clear the
-                                shortcut entirely.<br/><br/>
+              The timeline is enabled by default. To switch back to the plain slider, go to
+              Settings &gt; General and uncheck "Show Timeline".<br/>
+              <br/>
+          </li>
+          <li>
+              <b>Customizable Keyboard Shortcuts</b><br/>
+              All keyboard shortcuts can now be configured freely in Settings &gt; Shortcuts.
+              Shortcuts are organised into sections (File, Edit, Tools, Player, and Others) and
+              each action shows its current binding. Click a binding field and press the desired
+              key combination to reassign it; click it again while it is active to clear the
+              shortcut entirely.<br/><br/>
 
-                                <b>Notable shortcuts in the "Others" section:</b>
-                                <ul>
-                                    <li><b>Jump to Position 1–10:</b> Press the corresponding digit key (1–0 on the
-                                        number row) to jump directly to that position.</li>
-                                    <li><b>Jump to Position 11–20:</b> Hold Shift while pressing the digit key.</li>
-                                    <li><b>Play Position / Load Song:</b> Press Enter to play the selected position
-                                        or load the selected song.</li>
-                                </ul><br/>
+              <b>Notable shortcuts in the "Others" section:</b>
+              <ul>
+                  <li><b>Jump to Position 1–10:</b> Press the corresponding digit key (1–0 on the
+                      number row) to jump directly to that position.</li>
+                  <li><b>Jump to Position 11–20:</b> Hold Shift while pressing the digit key.</li>
+                  <li><b>Play Position / Load Song:</b> Press Enter to play the selected position
+                      or load the selected song.</li>
+              </ul><br/>
 
-                                Use the "Reset to Defaults" button at the bottom of the Shortcuts settings page to
-                                restore all shortcuts to their factory values.<br/>
-                                <br/>
-                            </li>
-                        </ul>
-                    </div>]]></description>
-            <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac.app-1.7.2.zip" sparkle:version="1.7.2" sparkle:shortVersionString="1.7.2 beta" length="7718593" type="application/octet-stream" sparkle:edSignature="HQeioeku6e4WeQ98t3REnnlzBZnhu4L3HD4XrjrrBQmSO0/szwPMCkA74kp7JgojNxrymONvMpy3ZuLm4tiZBQ=="/>
+              Use the "Reset to Defaults" button at the bottom of the Shortcuts settings page to
+              restore all shortcuts to their factory values.<br/>
+              <br/>
+          </li>
+      </ul>
+  </div>
+</div>]]></description>
+            <enclosure url="https://raw.githubusercontent.com/lunk22/ClogAmpSwiftSparkle/master/appcast/ClogAmpMac.app-1.7.2.zip" length="7718593" type="application/octet-stream" sparkle:edSignature="HQeioeku6e4WeQ98t3REnnlzBZnhu4L3HD4XrjrrBQmSO0/szwPMCkA74kp7JgojNxrymONvMpy3ZuLm4tiZBQ=="/>
+            <sparkle:version>1.7.2</sparkle:version>
+            <sparkle:shortVersionString>1.7.2 beta</sparkle:shortVersionString>
         </item>
     </channel>
 </rss>
